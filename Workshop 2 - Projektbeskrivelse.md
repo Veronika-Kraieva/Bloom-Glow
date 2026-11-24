@@ -1,141 +1,270 @@
-## Formål
+# BLOOM & GLOW – Projektbeskrivelse
 
-I denne workshop skal I beskrive den hjemmeside, som skal udvikles.
+## 1. Virksomhedsbeskrivelse
 
-I skal ikke tænke på design eller kodning endnu.
+### Firmanavn
 
-Fokus er på:
+BLOOM & GLOW.
 
-- Hvad hjemmesiden skal bruges til
-- Hvem hjemmesiden skal hjælpe
-- Hvilket indhold hjemmesiden skal indeholde
-- Hvilke funktioner hjemmesiden skal have
+### Koncept
 
-Når workshoppen er færdig, skal I have udvidet jeres projektbeskrivelse med en samlet plan for hjemmesiden.
+BLOOM & GLOW er en online butik, der sælger blomster, buketter og duftlys. Vi vil gøre det nemt for kunderne at købe smukke produkter og personlige gaver.
 
----
+### Produkter og services
 
-Projektbeskrivelse – BLOOM & GLOW
-## Del 1 – Hjemmesidens formål
-Hvorfor skal hjemmesiden eksistere?
+- Friske blomsterbuketter.
 
-Hjemmesiden skal sælge blomster, buketter og duftlys online. Vi vil gøre vores butik kendt og tiltrække flere kunder.
-## Hvad skal en besøgende kunne gøre på hjemmesiden?
+- Duftlys med forskellige dufte.
 
-Se vores produkter.
+- Gaveæsker med blomster og lys.
 
-Se priser.
+- Personlige buketter.
 
-Købe blomster og duftlys.
+- Information om levering og bestilling.
 
-Læse om virksomheden.
+### Værdier
 
-Kontakte os.
-## Hvad skal brugeren vide efter at have besøgt hjemmesiden?
+- Kvalitet.
 
-Brugeren skal vide, hvem vi er, hvad vi sælger, hvad vores produkter koster, og hvordan man bestiller og kontakter os.
+- Kreativitet.
 
-⸻
-## Del 2 – Hjemmesidens indhold
-Tekstindhold
+- Skønhed.
 
-Introduktion til virksomheden.
+- Personlig service.
 
-Beskrivelser af blomster og duftlys.
+- Omtanke for miljøet.
 
-Priser på produkter.
+## 2. Målgruppe
 
-Information om levering.
+### Primær målgruppe
 
-Kontaktoplysninger.
-Billeder
+Kvinder og mænd mellem 18 og 45 år, som kan lide blomster, duftlys og flotte gaver.
 
-Billeder af blomsterbuketter.
+### Persona
 
-Billeder af duftlys.
+- Navn: Emma Nielsen
 
-Billeder af gaveæsker.
+- Alder: 24 år
 
-Billeder af vores produkter.
-Medier
+- Bopæl: København
 
-Hjemmesiden skal indeholde:
+- Uddannelse: Universitetsstuderende
 
-Instagram og TikTok.
+- Arbejde: Deltidsjob
 
-Ikoner til sociale medier.
+- Interesser: Blomster, mode, indretning, cafébesøg og fotografering.
 
-Et logo.
+- Sociale medier: Instagram, TikTok og Pinterest.
 
-Links til vores sociale medier.
+- Behov: Smukke buketter, duftlys, personlige gaver og nem online bestilling.
 
-⸻
-## Del 3 – Undersider
-Forside
-Indhold:
+- Købsadfærd: Køber blomster til fødselsdage, fester og andre særlige dage.
 
-Velkomsttekst.
+## 3. Konkurrentanalyse
 
-Logo og slogan.
+### Konkurrent 1 – Interflora
 
-Store billeder af blomster og duftlys.
+Website: https://interflora.dk/
 
-Populære produkter.
-Om os
-Indhold:
+**Styrker:**
 
-Information om virksomheden.
+- Stort udvalg af blomster og buketter.
 
-Vores historie.
+- Levering i hele Danmark.
 
-Vores værdier.
+- Mulighed for at tilføje en personlig hilsen.
 
-Hvorfor vi sælger blomster og duftlys.
-Blomster og duftlys
-Indhold:
+- Mulighed for levering samme dag.
 
-Billeder af produkter.
+**Svagheder:**
 
-Produktbeskrivelser.
+- Det store udvalg kan gøre det svært at vælge.
 
-Priser.
+- Buketter kan variere fra billederne.
 
-Mulighed for at bestille produkter.
-Kontakt
-Indhold:
+- Levering koster ekstra.
 
-E-mail.
+### Konkurrent 2 – Bloomit
 
-Telefonnummer.
+Website: https://www.bloomit.dk/
 
-Kontaktformular.
+**Styrker:**
 
-Instagram og TikTok.
+- Stort udvalg af buketter.
 
-⸻
-## Del 4 – Funktioner
-Funktion 1 – Kontaktformular
-Beskrivelse:
+- Hurtig og personlig levering.
 
-Kunderne kan skrive beskeder og stille spørgsmål til os.
-Funktion 2 – Billedgalleri
-Beskrivelse:
+- Flere betalingsmuligheder.
 
-Kunderne kan se billeder af vores blomster, duftlys og gaveæsker.
-Funktion 3 – Mobilmenu
-Beskrivelse:
+- Samarbejde med lokale blomsterbutikker.
 
-Kunderne kan nemt finde rundt på hjemmesiden via deres mobiltelefon.
+**Svagheder:**
 
-⸻
-## Del 5 – Hvad skal brugeren opleve?
-Første indtryk
+- Levering samme dag afhænger af bestillingstidspunktet.
+
+- Et præcist leveringstidspunkt kan ikke altid garanteres.
+
+- Sortimentet fokuserer især på blomster og gavekurve.
+
+### Inspiration til BLOOM & GLOW
+
+Vi kan lære af konkurrenternes gode produktbilleder, nemme bestilling og levering. BLOOM & GLOW vil skille sig ud ved at sælge både blomster, duftlys og gaveæsker samlet i én webshop.
+
+## 4. Projektbeskrivelse
+
+### Hjemmesidens Formål
+
+Hjemmesiden skal sælge blomster, buketter og duftlys online. Kunderne skal nemt kunne finde og købe vores produkter.
+
+### Mål med hjemmesiden
+
+Vi vil gerne have flere kunder, øge salget og gøre det nemt at handle online.
+
+### Hjemmesidens indhold
+
+#### Tekster
+
+- Introduktion til virksomheden.
+
+- Beskrivelser af blomster og duftlys.
+
+- Priser og produktinformation.
+
+- Information om levering.
+
+- Kontaktoplysninger.
+
+#### Billeder
+
+- Billeder af blomsterbuketter.
+
+- Billeder af duftlys.
+
+- Billeder af gaveæsker.
+
+- Billeder af vores produkter.
+
+#### Øvrigt indhold
+
+- Logo og slogan.
+
+- Kontaktinformation.
+
+- Links til sociale medier.
+
+- Indkøbskurv, hvis det er muligt i projektet.
+
+### Undersider
+
+#### Forside
+
+**Indhold:**
+
+- Logo og velkomsttekst.
+
+- Billeder af blomster og duftlys.
+
+- Populære produkter.
+
+#### Side 2 – Blomster
+
+**Indhold:**
+
+- Forskellige blomsterbuketter.
+
+- Billeder og priser.
+
+- Information om bestilling.
+
+#### Side 3 – Duftlys
+
+**Indhold:**
+
+- Duftlys med forskellige dufte.
+
+- Produktbeskrivelser og priser.
+
+- Information om køb.
+
+#### Side 4 – Kontakt
+
+**Indhold:**
+
+- E-mail og telefonnummer.
+
+- Kontaktformular.
+
+- Sociale medier.
+
+- Information om levering.
+
+### Funktioner
+
+#### Funktion 1 – Kontaktformular
+
+**Beskrivelse:** Kunderne kan skrive beskeder og stille spørgsmål til os.
+
+#### Funktion 2 – Billedgalleri
+
+**Beskrivelse:** Kunderne kan se billeder af vores blomster, duftlys og gaveæsker.
+
+#### Funktion 3 – Mobilmenu
+
+**Beskrivelse:** Kunderne kan nemt finde rundt på hjemmesiden via deres mobiltelefon.
+
+### Forventet brugeroplevelse
+
+#### Første indtryk
 
 Hjemmesiden skal se flot, moderne og hyggelig ud. Vi vil bruge lyserøde, beige og hvide farver.
-Brugeroplevelse
+
+#### Brugeroplevelse
 
 Det skal være nemt og hurtigt at bruge hjemmesiden. Den skal være overskuelig og fungere på både mobil og computer.
-Handling
 
-Vi håber, at kunderne køber vores blomster og duftlys, kontakter os og følger os på sociale medier.
+#### Ønsket handling
+
+Vi håber, at kunderne ser vores produkter, kontakter os og bestiller blomster eller duftlys.
+
+## 5. Kravspecifikation
+
+### Funktionelle krav
+
+1. Brugeren skal kunne se et udvalg af blomster og duftlys.
+
+2. Brugeren skal kunne læse produktbeskrivelser og se priser.
+
+3. Brugeren skal kunne sende en besked via kontaktformularen.
+
+4. Brugeren skal kunne se billeder i et billedgalleri.
+
+5. Brugeren skal kunne navigere mellem hjemmesidens sider.
+
+### Ikke-funktionelle krav
+
+1. Hjemmesiden skal fungere på mobil, tablet og computer.
+
+2. Hjemmesiden skal være nem at bruge.
+
+3. Siderne og billederne skal indlæses hurtigt.
+
+4. Teksten skal være tydelig og let at læse.
+
+5. Farver, billeder og skrifttyper skal passe til BLOOM & GLOWs stil.
+
+## 6. User Stories
+
+1. Som kunde vil jeg se blomster, så jeg kan vælge en buket.
+
+2. Som kunde vil jeg se priser, så jeg ved, hvad produkterne koster.
+
+3. Som kunde vil jeg se duftlys, så jeg kan vælge min yndlingsduft.
+
+4. Som kunde vil jeg kontakte butikken, hvis jeg har spørgsmål.
+
+5. Som kunde vil jeg se billeder af produkterne, så jeg ved, hvad jeg køber.
+
+6. Som kunde vil jeg bruge hjemmesiden på min mobil, så jeg kan besøge den overalt.
+Send blomster med Interflora | Levering i dag
+Send blomster lige til døren med Interflora. Vi tilbyder dag til dag levering ✔️ 4,4/5 af +54.000 kunder ⭐ Friske blomster ✔️ Levering i hele Danmark ✔️
  
